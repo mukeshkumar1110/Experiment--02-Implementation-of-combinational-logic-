@@ -55,7 +55,7 @@ endmodule
 ## Output:
 ### RTL realization:
 ![image](https://github.com/RoopakCS/Experiment--02-Implementation-of-combinational-logic-/assets/139228922/14921f2e-8539-4511-8b93-ba704232f910)
-### Truth tblae:
+### Truth table:
 ![image](https://github.com/RoopakCS/Experiment--02-Implementation-of-combinational-logic-/assets/139228922/f37b3f5d-21a4-4055-bc2b-4fabbc99d520)
 ### Timing Diagram:
 ![image](https://github.com/RoopakCS/Experiment--02-Implementation-of-combinational-logic-/assets/139228922/5ca97313-d0a3-46e9-ad99-ff8b20f23246)
